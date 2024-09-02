@@ -1,0 +1,12 @@
+credential.helper=osxkeychain
+init.defaultbranch=main
+user.name=Arun Kumar
+user.email=dudduarunkumar@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+core.precomposeunicode=true
+user.email=dkoti22222@gmail.com
+user.name=dkoti222
